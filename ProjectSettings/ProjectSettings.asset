@@ -627,7 +627,7 @@ PlayerSettings:
       OfflineMapsManagement: False
       PhoneCall: False
       PhoneCallHistoryPublic: False
-      PicturesLibrary: False
+      PicturesLibrary: True
       PointOfService: False
       PrivateNetworkClientServer: False
       Proximity: False
@@ -635,14 +635,14 @@ PlayerSettings:
       RemoteSystem: False
       RemovableStorage: False
       SharedUserCertificates: False
-      SpatialPerception: False
+      SpatialPerception: True
       SystemManagement: False
       UserAccountInformation: False
       UserDataTasks: False
       UserNotificationListener: False
       VideosLibrary: False
       VoipCall: False
-      WebCam: False
+      WebCam: True
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
