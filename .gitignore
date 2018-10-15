@@ -26,4 +26,13 @@ Native/libs
 *.exe
 *.exe.*
 Docs/
-Assets/Resources/License.xml
+# Augumenta related
+## License
+Assets/Resources/License.xml*
+Assets/Resources.meta
+## Scripts from unityplugin
+Assets/Augumenta.meta
+Assets/Augumenta/*
+## Augumenta Plugins folder containing the libraries
+Assets/Plugins.meta
+Assets/Plugins/
