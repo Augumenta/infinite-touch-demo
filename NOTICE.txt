@@ -1,0 +1,9 @@
+Augumenta Infinite Touch Unity3D Sample Project
+Copyright 2018 and onwards Augumenta Ltd.
+
+This product includes software developed at
+Augumenta Ltd. (http://www.augumenta.com/).
+
+For information about purchases contact sales@augumenta.com.
+For general information contact info@augumenta.com.
+For technical support contact support@augumenta.com.
